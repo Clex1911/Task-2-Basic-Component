@@ -1,0 +1,62 @@
+table {
+    width: auto;
+}
+
+thead {
+    background-color: aliceblue;
+}
+
+th {
+    text-align: left;
+}
+
+.popup-box {
+    background-color: blue;
+    width: 8cm;
+    height: 8cm;
+    padding-top: 10px;
+    margin-top: 200px;
+
+}
+
+.popupImage {
+    color: white;
+    width: 4cm;
+    margin-top: 20px;
+    margin-left: 2cm;
+}
+
+p {
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin-left : 10px;
+    margin-right: 10px;
+}
+
+.popupButton {
+    margin-left: 2cm;
+    padding-left: 10px;
+    justify-content: center;
+}
+
+.grey-text {
+    color: black;
+}
+
+.bold-text {
+    font-weight: 500;
+}
+
+.green-text {
+    color: burlywood;
+}
+
+.button-image {
+    width: 20px;
+    margin-top: 3px;
+}
+
+.button {
+    text-align: center;
+}
